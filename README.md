@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **I work on machine learning projects, small AI tools, and experiments with LLMs.**
 
-- 🌱 I’m currently learning **TensorFlow / PyTorch LLM fine-tuning & optimization Cybersecurity fundamentals Advanced C programming Flask / Django (if you want web backend skills) Git & Linux deep dive**
+- 🌱 I’m currently learning **TensorFlow / PyTorch LLM fine-tuning & optimization ,Cybersecurity fundamentals, C programming, Git & Linux**
 
 - 💬 Ask me about **Machine Learning, LLMs, Python, C, Cybersecurity basics, HTML/CSS**
 
