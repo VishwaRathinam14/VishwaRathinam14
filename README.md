@@ -1,209 +1,327 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishwa%20Rathinam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0a192f,70:0d2137,100:020817&height=220&section=header&text=VISHWA%20RATHINAM%20S&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Systems%20%E2%80%A2%20Embedded%20%E2%80%A2%20Parallel%20Computing&descAlignY=60&descSize=14&descColor=38bdf8&stroke=38bdf8&strokeWidth=1.5"/>
 
-<!-- TYPING SVG - ROLES -->
+</div>
+
+<div align="center">
+
 <a href="https://github.com/VishwaRathinam14">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+AI+that+actually+matters+%F0%9F%A4%96;LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;Turning+data+into+decisions+%F0%9F%93%8A;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&lines=Reinforcement+Learning+%7C+CUDA+%7C+Embedded+ARM+%7C+OS+Internals;CNN+%7C+RNN+%7C+Autoencoder+%7C+LLM+Fine-tuning+%7C+MLOps;Cybersecurity+%7C+Metasploit+%7C+Network+Sniffing+%7C+SQL+Injection;%22I+break+things+just+to+learn+how+to+fix+them.%22" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=VishwaRathinam14&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/VishwaRathinam14?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-00D9FF?style=for-the-badge&labelColor=0D1117" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishwa--rathinam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-rathinam-01a934282/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-vishwarathinams-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/vishwarathinams)
+[![Mail](https://img.shields.io/badge/Mail-vishwarathinam02%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishwarathinam02@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=VishwaRathinam14&style=flat-square&color=38bdf8&label=profile+views)
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="AI Brain GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 🧠 `whoami`
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
+╔══════════════════════════════════════════════╗
+║        vishwa@rathinam:~$  whoami             ║
+╚══════════════════════════════════════════════╝
+
 class VishwaRathinam:
-    name       = "Vishwa Rathinam"
-    role       = "Machine Learning Engineer"
-    location   = "Tamil Nadu, India 🇮🇳"
-    passion    = "Building impactful AI models"
-    
-    currently  = [
-        "Fine-tuning LLMs 🤖",
-        "Cybersecurity fundamentals 🔐",
-        "C deep dives for system-level ML ⚙️",
-        "Exploring TensorFlow & PyTorch 🔥"
+    name      = "Vishwa Rathinam S"
+    role      = "AI/ML Engineer · Systems Engineer"
+    location  = "Tamil Nadu, India"
+    focus     = "From model to production — impactful AI"
+
+    domains   = [
+        "Machine Learning & Deep Learning",
+        "Reinforcement Learning",
+        "Parallel Computing (CUDA/GPU)",
+        "Embedded Systems (ARM LPC2148)",
+        "OS Internals & Linux IPC",
+        "Cybersecurity & Ethical Hacking",
+        "Digital Hardware (Verilog)",
     ]
 
-    philosophy = "I break things just to learn how to fix them. 💡"
-    
-    contact    = {
-        "email"  : "vishwarathinam02@gmail.com",
-        "phone"  : "+91 63798 35743",
-        "linkedin": "vishwa-rathinam-01a934282"
-    }
+    now       = [
+        "LLM fine-tuning → LoRA / QLoRA / PEFT",
+        "ML deployment  → FastAPI + Docker",
+        "CUDA kernel optimisation",
+        "CTF labs + ethical hacking",
+    ]
+
+    quote     = "I break things just to learn how to fix them."
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- CONNECT SECTION -->
-<div align="center">
+## ◈ Machine Learning & AI
 
-### 🌐 Let's Connect
+<table>
+<tr>
+<td valign="top" width="33%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwa%20Rathinam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-rathinam-01a934282/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-vishwarathinams-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vishwarathinams)
-[![Gmail](https://img.shields.io/badge/Gmail-vishwarathinam02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwarathinam02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-VishwaRathinam14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwaRathinam14)
-
-</div>
-
----
-
-<!-- WHAT I DO -->
-## 🚀 What I'm Up To
-
-```
-🔬  Training & deploying ML models that solve real-world problems
-🧪  Experimenting with LLM fine-tuning & optimization techniques
-🔐  Learning Cybersecurity — ethical hacking, CTFs, threat modeling
-📚  Deep-diving into C for low-level performance in AI pipelines
-🌍  Contributing to open source ML & AI projects
-```
-
----
-
-<!-- SKILLS SECTION -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🤖 AI / ML Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 💻 Languages & Web
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-</div>
-
----
-
-<!-- GOALS 2026 -->
-## 🎯 Goals for 2026
-
-| # | Goal | Status |
-|---|------|--------|
-| 🏆 | Win a Kaggle competition (top 10%) | 🔄 In Progress |
-| 🤖 | Fine-tune & deploy a production LLM | 🔄 In Progress |
-| 🔐 | Clear CEH / complete cybersecurity certification | ⏳ Planned |
-| 🌐 | Contribute to 5+ open source ML repos | ⏳ Planned |
-| 📦 | Build & ship 10+ AI-powered projects | 🔄 In Progress |
-| ✍️ | Write technical blogs on AI/ML insights | ⏳ Planned |
-| 💼 | Land ML internship at a top tech company | ⏳ Planned |
-| 🏗️ | Build a personal AI assistant from scratch | ⏳ Planned |
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishwaRathinam14&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaRathinam14&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
+**Supervised Learning**
 <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="28"/>
+<br/><br/>
+Linear & Logistic Regression<br/>
+Decision Trees · SVM · K-Means<br/>
+Spam / Churn / Placement Prediction
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaRathinam14&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
+</td>
+<td valign="top" width="33%">
+
+**Deep Learning**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="28"/>
+<br/><br/>
+MLP · CNN (Malaria Detection)<br/>
+RNN (Stock Prediction)<br/>
+Autoencoder · NER
+
+</td>
+<td valign="top" width="33%">
+
+**Reinforcement Learning**
+<br/><br/>
+Q-Learning · SARSA<br/>
+Monte Carlo Control<br/>
+Policy & Value Iteration<br/>
+MDP Representation
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**LLMs & GenAI**
+<br/><br/>
+HuggingFace · LoRA / QLoRA<br/>
+PEFT · Prompt Engineering<br/>
+Model Deployment
+
+</td>
+<td valign="top">
+
+**Statistics & Maths**
+<br/><br/>
+Gaussian · Poisson · Binomial<br/>
+QR & LU Decomposition<br/>
+Eigenvalues · Matrix Rank
+
+</td>
+<td valign="top">
+
+**MLOps (Learning)**
+<br/><br/>
+FastAPI · Docker<br/>
+MLflow · Weights & Biases<br/>
+HuggingFace Spaces
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Systems & Low-Level Engineering
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**CUDA / GPU**
+<br/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="22"/>
+<br/><br/>
+Matrix Multiplication<br/>
+GPU Vector Summation<br/>
+Warp Divergence<br/>
+Shared Memory Optimisation
+
+</td>
+<td valign="top" width="25%">
+
+**Embedded — ARM**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="28"/>
+<br/><br/>
+LPC2148 · ADC · UART<br/>
+LCD · Keypad · Timers<br/>
+Interrupts · Embedded C
+
+</td>
+<td valign="top" width="25%">
+
+**OS & Linux IPC**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28"/>
+<br/><br/>
+Pipes · Shared Memory<br/>
+Semaphores · Msg Queues<br/>
+fork / wait / exec<br/>
+Shell Scripting
+
+</td>
+<td valign="top" width="25%">
+
+**Hardware (Verilog)**
+<br/><br/>
+Flip-flops<br/>
+Combinational Logic<br/>
+Adders · Subtractors<br/>
+Counters
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Cybersecurity
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28"/>
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+SQL Injection &nbsp;·&nbsp; Metasploit &nbsp;·&nbsp; Backdoor via SET &nbsp;·&nbsp; ARP Attack &nbsp;·&nbsp; Network Sniffing &nbsp;·&nbsp; Enumeration &nbsp;·&nbsp; Information Gathering
+
+---
+
+## ◈ Languages
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" title="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" title="C"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" title="C#"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=76B900" height="48" title="CUDA"/>
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
+## ◈ Web & Frameworks
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaRathinam14&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=ffffff&area_color=00D9FF" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="44" title="Bootstrap"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" title="React"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="44" title="Spring Boot"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" title="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" title="FastAPI"/>
+
 </div>
 
 ---
 
-<!-- CURRENT LEARNING PATH -->
-## 🧭 Current Learning Path
+## ◈ Tools
 
-```
-Machine Learning & AI
-├── 🔥 LLM Fine-tuning (LoRA, QLoRA, PEFT)
-├── 📦 Model Deployment (FastAPI, Docker, HuggingFace Spaces)
-├── 🧠 Deep Learning Architectures (Transformers, CNNs, RNNs)
-└── 📊 MLOps & Experiment Tracking (MLflow, W&B)
-
-Cybersecurity
-├── 🔐 Ethical Hacking Fundamentals
-├── 🕵️ CTF Challenges
-└── 🛡️ Threat Modeling & Secure Coding
-
-Systems
-├── ⚙️ C Programming for AI Performance
-└── 🐧 Linux Administration & Scripting
-```
-
----
-
-<!-- FUN FACTS -->
-## ⚡ Fun Facts
-
-> 🔧 **"I break things just to learn how to fix them."**
-
-> 🤖 My first ML model had 98% training accuracy and 52% validation accuracy. Classic.
-
-> 🌙 Best debugging sessions happen after midnight.
-
-> ☕ Powered by curiosity, caffeine, and documentation.
-
----
-
-<!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" title="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" title="Linux"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="44" title="Jupyter"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" title="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="44" title="PyTorch"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="44" title="TensorFlow"/>
 
-**📬 Open to collaborations, internships & research opportunities!**
+</div>
 
-[![Email](https://img.shields.io/badge/📧%20vishwarathinam02%40gmail.com-reach%20out-00D9FF?style=flat-square)](mailto:vishwarathinam02@gmail.com)
+---
+
+## ◈ Skill Map
+
+```
+AI / Machine Learning      ████████████████████  Strong
+Deep Learning              ████████████████░░░░  Intermediate → Advanced
+Reinforcement Learning     ██████████████░░░░░░  Intermediate
+Parallel Computing (CUDA)  ████████████████████  Advanced Academic
+Embedded Systems (ARM)     ████████████████████  Strong
+Operating Systems          ████████████████████  Strong
+Cybersecurity              ██████████████░░░░░░  Intermediate
+Web Development            ██████████████░░░░░░  Intermediate
+Digital Hardware (Verilog) ████████████░░░░░░░░  Academic
+```
+
+---
+
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vishwarathinam14&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 &nbsp;
-[![Phone](https://img.shields.io/badge/📱%20%2B91%2063798%2035743-call%20me-00D9FF?style=flat-square)](tel:+916379835743)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwarathinam14&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=94a3b8&langs_count=8&cache_seconds=1800"/>
 
-<br/>
+<br/><br/>
 
-*"The best AI model is the one that ships." — Me, probably* 🚀
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=vishwarathinam14&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishwarathinam14&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## ◈ 2026 Targets
+
+```
+[ IN PROGRESS ]  Fine-tune & deploy a production LLM
+[ IN PROGRESS ]  Top 10% on a Kaggle competition
+[ IN PROGRESS ]  Ship 10+ AI-powered projects
+[   PLANNED   ]  Build end-to-end CUDA-accelerated ML pipeline
+[   PLANNED   ]  Complete CEH / cybersecurity certification
+[   PLANNED   ]  Contribute to 5+ open-source ML / systems repos
+[   PLANNED   ]  Write deep-tech blogs on CUDA · RL · Embedded AI
+[   PLANNED   ]  Land ML or Systems internship at a top company
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0a192f,100:020817&height=110&section=footer&animation=fadeIn"/>
+
+`Open to research · ML internships · Systems engineering roles`
+
+**[vishwarathinam02@gmail.com](mailto:vishwarathinam02@gmail.com)**
 
 </div>
