@@ -1,8 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=VISHWA%20RATHINAM%20S&fontSize=72&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Building%20Intelligence%20%E2%80%A2%20Wiring%20Silicon%20%E2%80%A2%20Breaking%20Barriers&descAlignY=65&descSize=16&descColor=a78bfa&stroke=7c3aed&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,20:ff6a00,40:ffee00,60:00ff88,80:00cfff,100:a855f7&height=280&section=header&text=VISHWA%20RATHINAM%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Building%20Intelligence%20%E2%80%A2%20Wiring%20Silicon%20%E2%80%A2%20Breaking%20Barriers&descAlignY=65&descSize=16&descColor=ffffff&stroke=ffffff&strokeWidth=2"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=⚡+Reinforcement+Learning+%7C+CUDA+%7C+LLM+Fine-Tuning+%7C+ARM+Embedded;🔐+Cybersecurity+%7C+Parallel+Computing+%7C+OS+Internals+%7C+MLOps;🧠+From+Bare+Metal+to+Foundation+Models+—+I+build+the+full+stack;🌐+Open+to+Research+%7C+ML+Internships+%7C+Systems+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=4000&pause=99999&color=FF0080&center=true&vCenter=true&width=800&lines=Reinforcement+Learning+%7C+CUDA+%7C+LLM+Fine-Tuning+%7C+ARM+Embedded" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=4000&pause=99999&color=FF6A00&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Parallel+Computing+%7C+OS+Internals+%7C+MLOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=4000&pause=99999&color=00FF88&center=true&vCenter=true&width=800&lines=From+Bare+Metal+to+Foundation+Models+%E2%80%94+I+build+the+full+stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=4000&pause=99999&color=00CFFF&center=true&vCenter=true&width=800&lines=Open+to+Research+%7C+ML+Internships+%7C+Systems+Engineering+Roles" />
 
 <br/>
 
@@ -10,7 +13,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vishwarathinams)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwarathinam02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwaRathinam14)
-![Profile Views](https://komarev.com/ghpvc/?username=VishwaRathinam14&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=VishwaRathinam14&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS)
 
 </div>
 
@@ -24,19 +27,19 @@
 │   vishwa@rathinam:~$ ./init --identify                              │
 │   ─────────────────────────────────────────────────────────────     │
 │                                                                     │
-│   ██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗                   │
-│   ██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗                  │
-│   ██║   ██║██║███████╗███████║██║ █╗ ██║███████║                  │
-│   ╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║                  │
-│    ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║                  │
-│     ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝                 │
+│   ██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗                     │
+│   ██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗                    │
+│   ██║   ██║██║███████╗███████║██║ █╗ ██║███████║                    │
+│   ╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║                    │
+│    ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║                    │
+│     ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝                    │  
 │                                                                     │
 │   name     →  Vishwa Rathinam S                                     │
-│   role     →  AI/ML · Systems · Embedded · Parallel Computing      │
-│   location →  Tamil Nadu, India 🇮🇳                                │
-│   mantra   →  "I break things just to learn how to fix them."      │
+│   role     →  AI/ML · Systems · Embedded · Parallel Computing       │
+│   location →  Tamil Nadu, India 🇮🇳                                  │
+│   mantra   →  "I break things just to learn how to fix them."       │
 │                                                                     │
-│   status   →  [ ██████████████████░░ ] Building in public...       │
+│   status   →  [ ██████████████████░░ ] Building in public...        │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -147,18 +150,18 @@ Network Sniffing · Enumeration · Information Gathering · CTF Labs
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  DOMAIN                       DEPTH          XP BAR              TIER  ║
+║  DOMAIN                       DEPTH          XP BAR              TIER    ║
 ╠══════════════════════════════════════════════════════════════════════════╣
-║  AI / Machine Learning        ████████████████████████  ▸  ADVANCED    ║
-║  Parallel Computing (CUDA)    ████████████████████████  ▸  ADVANCED    ║
-║  Embedded Systems (ARM)       ████████████████████████  ▸  ADVANCED    ║
-║  Operating Systems            ████████████████████████  ▸  ADVANCED    ║
-║  Deep Learning                ████████████████████░░░░  ▸  LEVELING ↑  ║
-║  Reinforcement Learning       ███████████████████░░░░░  ▸  LEVELING ↑  ║
-║  Cybersecurity                █████████████████░░░░░░░  ▸  GROWING     ║
-║  LLMs & GenAI                 ████████████████░░░░░░░░  ▸  GROWING     ║
-║  Web Development              ████████████░░░░░░░░░░░░  ▸  FUNCTIONAL  ║
-║  Digital Hardware (Verilog)   ██████████░░░░░░░░░░░░░░  ▸  ACADEMIC    ║
+║  AI / Machine Learning        ████████████████████████  ▸  ADVANCED      ║
+║  Parallel Computing (CUDA)    ████████████████████████  ▸  ADVANCED      ║
+║  Embedded Systems (ARM)       ████████████████████████  ▸  ADVANCED      ║
+║  Operating Systems            ████████████████████████  ▸  ADVANCED      ║
+║  Deep Learning                ████████████████████░░░░  ▸  LEVELING ↑    ║
+║  Reinforcement Learning       ███████████████████░░░░░  ▸  LEVELING ↑    ║
+║  Cybersecurity                █████████████████░░░░░░░  ▸  GROWING       ║
+║  LLMs & GenAI                 ████████████████░░░░░░░░  ▸  GROWING       ║
+║  Web Development              ████████████░░░░░░░░░░░░  ▸  FUNCTIONAL    ║
+║  Digital Hardware (Verilog)   ██████████░░░░░░░░░░░░░░  ▸  ACADEMIC      ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -172,7 +175,7 @@ Network Sniffing · Enumeration · Information Gathering · CTF Labs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/Architecture-CNN-a78bfa?style=flat-square)
+![CNN](https://img.shields.io/badge/Architecture-CNN-ff0080?style=flat-square)
 
 ---
 
@@ -181,7 +184,7 @@ Network Sniffing · Enumeration · Information Gathering · CTF Labs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RNN](https://img.shields.io/badge/Architecture-RNN%2FLSTM-a78bfa?style=flat-square)
+![RNN](https://img.shields.io/badge/Architecture-RNN%2FLSTM-ff6a00?style=flat-square)
 
 ---
 
@@ -198,7 +201,7 @@ Network Sniffing · Enumeration · Information Gathering · CTF Labs
 > Full RL suite implementing Q-Learning, SARSA, Monte Carlo Control, and Policy/Value Iteration on OpenAI Gym environments. Includes reward visualization and convergence analysis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RL](https://img.shields.io/badge/Domain-Reinforcement_Learning-a78bfa?style=flat-square)
+![RL](https://img.shields.io/badge/Domain-Reinforcement_Learning-00cc88?style=flat-square)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI-Gym-412991?style=flat-square)
 
 ---
@@ -215,17 +218,17 @@ Network Sniffing · Enumeration · Information Gathering · CTF Labs
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VishwaRathinam14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VishwaRathinam14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff6a00&icon_color=00cc88&text_color=94a3b8&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaRathinam14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=94a3b8&langs_count=8"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishwaRathinam14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00cfff&text_color=94a3b8&langs_count=8"/>
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=VishwaRathinam14&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=VishwaRathinam14&theme=tokyonight&hide_border=true&background=0D1117&ring=ff0080&fire=ff6a00&currStreakLabel=00cfff"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaRathinam14&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=a78bfa"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaRathinam14&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00cfff&line=ff6a00&point=ff0080"/>
 
 </div>
 
@@ -235,7 +238,7 @@ Network Sniffing · Enumeration · Information Gathering · CTF Labs
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║              VISHWA RATHINAM — 2026 MISSION BOARD                ║
+║              VISHWA RATHINAM — 2026 MISSION BOARD                 ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
 ║  [ 🔄 ACTIVE ]  Fine-tune & deploy a production-grade LLM        ║
@@ -286,14 +289,14 @@ vishwa@rathinam:~$ █
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Research%20Collabs-a78bfa?style=for-the-badge&logo=researchgate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to-ML%20Internships-7c3aed?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to-Systems%20Engineering%20Roles-5b21b6?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to-Open%20Source-4c1d95?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Research%20Collabs-ff0080?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-ML%20Internships-ff6a00?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Systems%20Engineering%20Roles-00cc88?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Open%20Source-00cfff?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:0f0c29&height=130&section=footer&text=From%20bare%20metal%20to%20foundation%20models%20—%20I%20build%20the%20full%20stack&fontSize=14&fontColor=e2e8f0&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,20:00cfff,40:00ff88,60:ffee00,80:ff6a00,100:ff0080&height=130&section=footer&text=From%20bare%20metal%20to%20foundation%20models%20—%20I%20build%20the%20full%20stack&fontSize=14&fontColor=e2e8f0&fontAlignY=65&animation=fadeIn"/>
 
 <div align="center">
 <em>⭐ If any of my work helped you, a star means the world · <a href="https://github.com/VishwaRathinam14">@VishwaRathinam14</a> · Made with 🧠 + ⚡ in Tamil Nadu 🇮🇳</em>
